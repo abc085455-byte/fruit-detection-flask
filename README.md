@@ -55,8 +55,3 @@ Author
 Muhammad Shawail
 
 
-
-Agar chaho to main **tumhare project ke liye ready-to-paste, full professional README.md bana du**  
-- Screenshots + demo GIF + Fiverr / CV friendly wording ke sath.  
-
-Chahoge main ye bana du
