@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Detection Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🍎 Detection Result</h1>
+        </header>
+
+        <main>
+            <div class="result-image">
+                <img src="{{ image_path }}" alt="Detection Result">
+            </div>
+            
+            <button onclick="window.location.href='/'" class="btn-secondary">
+                Back to Home
+            </button>
+        </main>
+    </div>
+</body>
+</html>

@@ -1,0 +1,13 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env
+
+# ML / DL model files (heavy)
+*.pt
+*.pth
+*.h5
+*.safetensors
